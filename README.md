@@ -29,7 +29,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Pages & Features 👇
 
-- `Home Page`: Contains the name ,email and mobile number of the user.
+- `Home Page`: Contains the header ,Footer and body.
 [homepage]()
 - `Log-In`: User authentication to check whether username and password match with details existing in the database.
 -Here username:foo and Password: bar to login to the website.
@@ -49,3 +49,4 @@ There is Logout button whenuser click on the logout button He/She redirect to lo
 
 
 ****deploy link***
+[project Deploy link of netify](https://spacex-informational.netlify.app)
